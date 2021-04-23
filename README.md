@@ -3,26 +3,29 @@
 
 ## overview
 
-This is my professional website, based off another theme [moonwalk](https://github.com/abhinavs/moonwalk).
+This is my professional website, with serverless hosting, based off another theme [moonwalk](https://github.com/abhinavs/moonwalk).
 
-I built this over the course of several days - it runs on a serverless design. My email address is simply mail,-a-t- johncquinn.com
-which I was pretty happy about the snappy nature of that. 
+I built this over the course of several days, utilizing a variety of outdated resources on the subject. 
 
-"very professional"
+My resulting email address is simply mail-a-t- johncquinn.com, which I was pretty happy about the snappy nature of that. 
+
+"Very professional" 
+
+and easy to remember. This is desirable since I am seeking gainful employment.
 
 The content listed here is a rough mirror of what is on my s3 repo, minus a few changes which I made for s3-cloudfront compatibility.
 
-Check out my [security headers implementation score.](https://securityheaders.com/?q=www.johncquinn.com&followRedirects=on)
+Check out my [security headers implementation score!](https://securityheaders.com/?q=www.johncquinn.com&followRedirects=on)
 
 ## design
-Overall I'm looking for pragmatism that doesn't look entirely horrible. I hate unnecessary javascript so my website is designed to run without it. 
-There is no reason for unnecessary complexity.
+
+Overall I'm looking for a design that prioritizes pragmatism. Some visuals are pragmatic, but if it jeopardizes the speed and function of the website then I left it out. This is the website of a computer scientist, not a graphic designer, so I with that in mind, I decided to forgo javascript. There is no reason for the unnecessary complexity.
 
 
 ### tools
 
 - vim because it's a small project
-- QubesOS lets me easily have a separate VM (Xen PVHVM) just for this task, at the cost of almost no additional hard disk space. [Check out the design for that system as well](www.johncquinn.com/hardened-qubes-os).
+- QubesOS lets me easily have a separate VM (Xen PVHVM) just for this task, at the cost of almost no additional hard disk space. [Check out the design for that system as well](https://www.johncquinn.com/hardened-qubes-os).
 - awscli & a few bash scripts I wrote to make management easier
 
 ### serverless hosting
@@ -30,7 +33,6 @@ There is no reason for unnecessary complexity.
 - uses s3 for hosting, aws cloudfront for deployment, and aws lambda@edge to handle security headers.
 - cert is from amazon
 - I use namecheap as the registrar, and pointed the records to Route53
-
 
 ## email
 

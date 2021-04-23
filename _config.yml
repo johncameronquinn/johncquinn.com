@@ -1,16 +1,16 @@
-title: Professional Website - John C. Quinn
+title: Professional Website - John C Quinn
 author: John C. Quinn 
 url: https://www.johncquinn.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hello, and Welcome to my website, it's designed to be both succinct and functional. For full verbosity regarding my resume, please visit my linkedin. Information about my projects are displayed here. As of 04-07-2021, this site is incomplete. I will be continually aggregated and posting my projects here as I cope with losing one of my encryption keys.
+  Hello, and Welcome to my website, it's designed to be both succinct and functional. For full verbosity regarding my resume, please visit my linkedin. Information about my projects are displayed.
 
-  This was several years ago, and I still don't know where that key is. Due to that key mistake I made, some of my work from my undergrad is missing. (Pun intended - please disregard)
+  I recommend all readers to check out the projects below.
 
-  On the bright side, a great deal remains - which I will display here. 
+  My PGP key is linked at the top right as well. I would lovingly appreciate communication in that form, although it is not required.
 
-permalink: //:slug.html
+permalink: /:slug.html
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: ./favicon.ico # relative path to site's favicon
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -28,7 +28,7 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: Recent Projects
+    title_projects: Major Projects
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Old Projects

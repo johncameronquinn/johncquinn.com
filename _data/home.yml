@@ -5,13 +5,16 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.johncquinn.com
+  - title: pgp-direct-download
+    url: johncquinn.txt
+
+  - title: pgp-on-openpgp.org
+    url:  https://keys.openpgp.org/search?q=mail%40johncquinn.com 
 
 project_entries:
   - title: Hardened Qubes System
     url: hardened-qubes-os
-    desc: This is my most recent and ongoing project - constant improvements on a production system.
+    desc: This is my most recent and ongoing project - constant improvements and modifications to a Qubes system.
     highlight: WIP
 
   - title: Whonix Automated Testing Suite
@@ -20,7 +23,7 @@ project_entries:
 
   - title: Gravity
     url: https://www.github.com/johncameronquinn/gravity
-    desc: a large-scale android app I developed over the course of 2.5 year
+    desc: a large-scale android app I developed over the course of 2.5 years
 
 old_project_entries:
   
@@ -41,9 +44,6 @@ footer_entries:
 
   - title: github
     url: https://github.com/johncameronquinn
-
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list

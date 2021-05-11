@@ -2,7 +2,9 @@ title: Professional Website - John C Quinn
 author: John C. Quinn 
 url: https://www.johncquinn.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hello, and Welcome to my website, it's designed to be both succinct and functional. For full verbosity regarding my resume, please visit my linkedin. Information about my projects are displayed.
+  Hello, and Welcome to my website, it's designed to be both succinct and functional. 
+  
+  For full verbosity regarding my resume, please visit my linkedin. Information about my projects are displayed.
 
   I recommend all readers to check out the projects below.
 
@@ -28,8 +30,8 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: Major Projects
-    title_misc_list: Details
+    title_projects: Projects
+    title_misc_list: Graphic Design
     title_blog: Blog
     title_old_projects: Old Projects
 

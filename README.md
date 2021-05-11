@@ -7,7 +7,7 @@ This is my professional website, with serverless hosting, based off another them
 
 I built this over the course of several days, utilizing a variety of outdated resources on the subject. 
 
-My resulting email address is simply mail-a-t- johncquinn.com, which I was pretty happy about the snappy nature of that. 
+My resulting email address is simply mail -a-t- johncquinn.com, which I was pretty happy about the snappy nature of that. 
 
 "Very professional" 
 

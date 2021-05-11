@@ -2,21 +2,20 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
   - title: pgp-direct-download
     url: johncquinn.txt
 
   - title: pgp-on-openpgp.org
-    url:  https://keys.openpgp.org/search?q=mail%40johncquinn.com 
+    url: https://keys.openpgp.org/search?q=mail%40johncquinn.com 
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/johncameronquinn/
 
 project_entries:
   - title: Hardened Qubes System
     url: hardened-qubes-os
     desc: This is my most recent and ongoing project - constant improvements and modifications to a Qubes system.
-    highlight: WIP
-
+  
   - title: Whonix Automated Testing Suite
     url: wats 
     desc: Senior capstone project for my undergrad, a contribution to Whonix OS.
@@ -24,6 +23,10 @@ project_entries:
   - title: Gravity
     url: https://www.github.com/johncameronquinn/gravity
     desc: a large-scale android app I developed over the course of 2.5 years
+
+  - title: Multithreaded Spider Searching
+    url: https://github.com/durhambn/CSCI340
+    desc: final project for one of the hardest classes in my undergrad
 
 old_project_entries:
   

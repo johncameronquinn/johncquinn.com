@@ -14,11 +14,11 @@ navbar_entries:
 project_entries:
   - title: Hardened Qubes System
     url: hardened-qubes-os
-    desc: This is my most recent and ongoing project - constant improvements and modifications to a Qubes system.
+    desc: A poster detailing the design of my highly modified QubesOS system. 
   
   - title: Whonix Automated Testing Suite
-    url: wats 
-    desc: Senior capstone project for my undergrad, a contribution to Whonix OS.
+    url: https://www.github.com/johncameronquinn/wats-senior-capstone
+    desc: Senior capstone project for my undergrad; a contribution to Whonix OS.
 
   - title: Gravity
     url: https://www.github.com/johncameronquinn/gravity

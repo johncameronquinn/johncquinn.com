@@ -1,21 +1,18 @@
-title: Professional Website - John C Quinn
+title: a Moderately Professional Website
 author: John C. Quinn 
 url: https://www.johncquinn.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hello, and Welcome to my website, it's designed to be both succinct and functional. 
-  
-  For full verbosity regarding my resume, please visit my linkedin. Information about my projects are displayed.
-
-  I recommend all readers to check out the projects below.
-
-  My PGP key is linked at the top right as well. I would lovingly appreciate communication in that form, although it is not required.
+  Hello, and Welcome to my website.
+  This site is primarily a link-hub, with some articles intermingled.
+  I'm gradually expanding over time, but in its current state many things
+  are WIP. There's quite a lot I intend to add and will be doing shortly.
 
 permalink: /:slug.html
 
 favicon: ./favicon.ico # relative path to site's favicon
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted

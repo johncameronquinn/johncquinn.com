@@ -32,7 +32,7 @@ p { margin: 1em 0; }
 li { margin: 0.4em 0; }
 
 .w {
-  max-width: 720px;
+  max-width: 75%;
   margin: 0 auto;
   padding: 4em 2em;
 }
@@ -60,9 +60,10 @@ blockquote {
 
 img {
   max-width: 100%;
-  display: block;
   margin: 0 auto;
+  height: auto;
 }
+
 html {
     --bg: #FFF;
     --bg-secondary: #f8f8f8;
@@ -196,4 +197,14 @@ p code, li code {
   a:hover {
     color: var(--links);
   }
+}
+
+.profile-pic {
+	max-width: 100%;
+	height: auto;
+	img {
+		vertical-align: right;
+		height: 100%;
+		margin: 0px 15px 15px 0px;
+	}
 }

@@ -4,8 +4,9 @@ url: https://www.johncquinn.com # root address of the site
 description: > # description of the site (multiple lines allowed)
   Hello, and Welcome to my website.
   This site is primarily a link-hub, with some articles intermingled.
-  I'm gradually expanding over time, but in its current state many things
-  are WIP. There's quite a lot I intend to add and will be doing shortly.
+  I'm gradually expanding over time, and some sections are WIP. There's quite a lot I intend to add and will be doing shortly.
+
+  Feel free to take a look at what I'm showcasing.
 
 permalink: /:slug.html
 

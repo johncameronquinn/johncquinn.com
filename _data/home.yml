@@ -2,14 +2,14 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: pgp-direct-download
-    url: johncquinn.txt
-
-  - title: pgp-on-openpgp.org
-    url: https://keys.openpgp.org/search?q=mail%40johncquinn.com 
+  - title: pgp
+    url: pgp 
 
   - title: linkedin
     url: https://www.linkedin.com/in/johncameronquinn/
+
+  - title: github
+    url: https://www.github.com/johncameronquinn/
 
 project_entries:
   - title: Hardened Qubes System
@@ -34,19 +34,20 @@ old_project_entries:
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+    resc: A fast and minimalist Jekyll blog theme with clean dark mode
 
 footer_entries:
   - title: homepage 
     url: https://www.johncquinn.com
 
   - title: linkedin 
-    url: https://www.linkedin.com/johncameronquinn
+    url: https://www.linkedin.com/johncameronquinn/
 
   - title: github
-    url: https://github.com/johncameronquinn
+    url: https://github.com/johncameronquinn/
+
+  - title: pgp
+    url: https://www.johncquinn.com/pgp
 
 misc_entries:
   - title: this is an example vertical list
